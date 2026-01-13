@@ -31,7 +31,7 @@ Here are some samples from the model's inference showing detection and safety zo
 This project utilizes the following technologies and frameworks:
 * **Ultralytics YOLOv8:** Jocher, G., Chaurasia, A., & Qiu, J. (2023). Ultralytics YOLOv8 (Version 8.0.0) [Software]. Available at [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
 * **Dataset:** Based on industrial safety datasets available on Roboflow link (https://universe.roboflow.com/roboflow-universe-projects/construction-site-safety).
-* **Developer:** [Your Name], MSc Data Analytics Student at BSBI, Berlin.
+* **Developer:** Adahm Abdelmoneem, MSc Data Analytics Student at BSBI, Berlin.
 
 # Project Structure
 Construction-Safety-YOLOv8/
